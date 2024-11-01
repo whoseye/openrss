@@ -3,18 +3,18 @@
 <title>信息发布</title>
 <subtitle>fork web</subtitle>
 
-<icon>https:https://cdn.v2ex.com/navatar/c74d/97b0/16_normal.png?m=1727584731</icon>
+<icon>https:https://raw.githubusercontent.com/navatar/c74d/97b0/16_normal.png?m=1727584731</icon>
 
 
-<logo>https:https://cdn.v2ex.com/navatar/c74d/97b0/16_large.png?m=1727584731</logo>
+<logo>https:https://raw.githubusercontent.com/navatar/c74d/97b0/16_large.png?m=1727584731</logo>
 
-<link rel="alternate" type="text/html" href="https://www.v2ex22.com/" />
-<link rel="self" type="application/atom+xml" href="https://www.v2ex2.com/feed/share.xml" />
+<link rel="alternate" type="text/html" href="https://raw.githubusercontent.com/" />
+<link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/whoseye/openrss/refs/heads/test/share.xml" />
 <id>https://raw.githubusercontent.com/</id>
 
 <updated>2024-11-01T09:57:27Z</updated>
 
-<rights>Copyright © 2010-2018, V2EX22</rights>
+<rights>Copyright © 2010-2024 ithaha</rights>
 <entry>
 	<title>生成式 AI 又一重磅产品发布——生图排行榜第一 redpandaai</title>
 	<link rel="alternate" type="text/html" href="https://raw.githubusercontent.com/t/1085833#reply0" />
